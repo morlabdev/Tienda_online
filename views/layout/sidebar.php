@@ -36,7 +36,7 @@
         <li><a href="<?=base_url?>pedido/mis_pedidos">Mis pedidos</a></li>
         <li><a href="<?=base_url?>usuario/logout">Cerrar sesión</a></li>
       <?php else: ?>
-        <li><a href="<?=base_url?>usuario/registro">Registración</a></li>
+        <li><a href="<?=base_url?>usuario/registro">Registrarse</a></li>
       <?php endif; ?>
     </ul>
 
